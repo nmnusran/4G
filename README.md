@@ -2,7 +2,7 @@
 
 Author: Naufer Nusran. 3/29/2019
 
-LabVIEW VI for Model 4G Superconducting Magnet Power Supply
+LabVIEW VI for Model 4G Superconducting Magnet Power Supply from CRYOMAGNETICS, INC.
 
 Needs 4G Write.vi
 
